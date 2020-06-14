@@ -3,11 +3,14 @@
 """
 -------------------------------------------------
    Description: learn thread module
+       底层线程module，需要自己实现同步原语；
+       对于线程何时退出没有控制，主线程结束时所有其他线程也会强制结束；
+       该模块不支持守护线程的概念；
    Author: hushutao
    Create_Date: 2020/6/14
 -------------------------------------------------
 """
-import thread
+import thread  # python3中重命名为_thread
 from time import sleep, ctime
 
 loops = [4, 2]
@@ -25,7 +28,7 @@ def main():
     locks = []
     nloops = range(len(loops))
     for i in nloops:
-        lock = thread.allocate_lock()
+        lock = thread.allocate_lock()  # LockType
         lock.acquire()
         locks.append(lock)
     for i in nloops:
@@ -37,4 +40,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-
