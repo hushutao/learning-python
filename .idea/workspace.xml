@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aacbb2f-5de2-49c4-b691-0a5e30e43f29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thread_process/thread1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5aacbb2f-5de2-49c4-b691-0a5e30e43f29" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +13,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,15 +51,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="104" column="6" lean-forward="true" selection-start-line="104" selection-start-column="6" selection-end-line="104" selection-end-column="6" />
+            <state relative-caret-position="901">
+              <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thread_process/thread1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -77,6 +78,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.idea</find>
+      <find>.idea/</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,9 +171,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -185,7 +186,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.52048194" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.52048194" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -217,12 +218,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thread_process/thread1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="104" column="6" lean-forward="true" selection-start-line="104" selection-start-column="6" selection-end-line="104" selection-end-column="6" />
+        <state relative-caret-position="901">
+          <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
         </state>
       </provider>
     </entry>
